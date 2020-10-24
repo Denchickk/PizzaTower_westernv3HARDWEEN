@@ -1,0 +1,31 @@
+{
+    "id": "1acbd02d-0ffd-44d8-b0b7-c9069dd387e5",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "1acbd02d-0ffd-44d8-b0b7-c9069dd387e5",
+    "children": [
+        "234e0d41-50d0-44d3-a626-ee57dd577968",
+        "ff83b895-558f-40ca-922e-6c777067dc94",
+        "7d82cdda-32dd-4e43-be3c-3302e6b3fa08",
+        "5205fc3a-11ed-4656-a6ba-4fea3fcfde4c",
+        "c522a4a2-5ddb-4ca4-aae2-5774fc37ebd7",
+        "1cfc5b16-9071-4e5a-b05d-948c4c3f7afe",
+        "f2203346-f085-4bf4-b4a8-b812613ef0ab",
+        "fb9e8069-b739-4eff-9391-96bb497da5d7",
+        "44651619-2f18-4b86-b6bc-0eb3fa92e84b",
+        "9c529734-d4e7-4078-a133-240dda75e803",
+        "7bec1392-4ee7-42a6-9491-3fa68459fcb9",
+        "ab2a33ff-40f0-4741-a008-c66b6237e8c8",
+        "accaf2c8-084e-462a-92c3-4dfe129dd69c",
+        "178eebbc-c0e6-4c25-a58e-40509f14dd6d",
+        "fb3a6ea2-03c9-46b8-9d58-30b6eea05c22",
+        "288b7dd6-3ec7-4187-bcc9-56521e1c0d7e",
+        "adb93703-aaf1-4f1c-8e14-0eebe236e1cf",
+        "73f2b645-56e1-4d66-8cab-d815367dc5fd",
+        "7bf93171-9c17-4e74-bfa6-e25da279c237"
+    ],
+    "filterType": "GMRoom",
+    "folderName": "Ruin",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

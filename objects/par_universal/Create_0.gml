@@ -1,0 +1,1 @@
+roomname = obj_null 

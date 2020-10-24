@@ -1,0 +1,30 @@
+{
+    "id": "c72071d9-3c0e-4eba-8f94-08b1fbb4caae",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "c72071d9-3c0e-4eba-8f94-08b1fbb4caae",
+    "children": [
+        "393b5ea0-a12e-4866-9471-223fe319183f",
+        "c7e59b6c-346a-4fc0-bb73-93d2650aeed0",
+        "daae3a5f-f1cd-44d0-ba74-c05f9e829e61",
+        "1290bc87-bd97-49ac-98a3-5702e3a6f6a3",
+        "fe4a9c9b-90dd-47a7-8267-f706238215bc",
+        "b96818af-7ffc-4550-9782-f20b2ce47dd7",
+        "43f436d8-7b6d-4bc8-902b-2c2003f22b14",
+        "3cbf699f-a4fe-431a-a2d7-dddf241f3989",
+        "cd95c5e1-d65d-47fc-9245-cb6033c1b0ae",
+        "3edf4fbe-b83a-4a7b-8264-c24c0df00971",
+        "894a1872-7a3b-4776-b1e8-b96176abf430",
+        "be8cecf4-b1ca-48b2-a223-46c511c996cc",
+        "da0da0b7-0aa9-4104-ba1f-66afe3d69989",
+        "09ce42e0-d310-436e-94cd-9b8ede8466a4",
+        "20bd5116-8936-468f-a9cf-e4c10cf480db",
+        "efa24ff5-1b58-4940-81aa-51d3c6ae6ce1",
+        "d53528cb-e2cf-44fe-a8cb-9341bec442a6",
+        "1d2f518c-f769-4242-ac26-dee00b4d5f6b"
+    ],
+    "filterType": "GMRoom",
+    "folderName": "Medieval",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

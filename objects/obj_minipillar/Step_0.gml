@@ -1,0 +1,18 @@
+if room == rm_editor {
+	mask_index = spr_minipillarwoke;
+	exit;
+}
+if global.panic = false
+{
+x = -100
+y = -100
+
+}
+else
+{
+mask_index = spr_minipillarwoke
+sprite_index = spr_minipillarwoke
+x = xstart
+y = ystart
+}
+

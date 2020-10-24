@@ -1,0 +1,32 @@
+{
+    "id": "3cff6147-1dae-4729-809f-e15e03305bd7",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "3cff6147-1dae-4729-809f-e15e03305bd7",
+    "children": [
+        "43cc01ab-1815-4b87-bfcc-65303c7cb494",
+        "0e59e82b-0a00-4879-a786-d735397c1f47",
+        "da4094f1-3bd8-4055-9c31-d2c9269aa5f6",
+        "6909cef3-6459-4bd2-8b5e-9255d56f9b64",
+        "e4988a3c-699f-439c-813b-57eeb625f829",
+        "7afbfcbc-a926-4532-8451-9c6d4af1283c",
+        "924b0c5b-836f-4854-a47e-0ec264cddfe2",
+        "12cd130b-5888-46d7-8582-0c1447d2cd98",
+        "ac2c3a0e-924d-454b-a31a-174235bbcbac",
+        "23575516-6faf-49ce-9b06-5d37c108aebf",
+        "2fd2e709-0076-44bf-b875-cfc31c5f1979",
+        "7d2dfd3f-3f92-4580-966f-fa23947c2456",
+        "24fbb514-805c-4045-a230-d86304fa3539",
+        "f81f473d-6f0f-4d09-9547-fe5a8fe01183",
+        "58030d83-0b02-44f5-ae0f-09962da0c0ce",
+        "f824e475-a89b-40df-b5db-40541f7b8a46",
+        "89a2d2f3-59aa-4f10-9885-8518f5d24517",
+        "56278f16-95c0-4d55-8e3b-e9743eef02ba",
+        "8b3cbe78-38cd-4f8c-8701-95f8a3790402",
+        "8be1e8fe-e5c0-4387-ba51-0fef3ba8db7c"
+    ],
+    "filterType": "GMObject",
+    "folderName": "collectibles",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

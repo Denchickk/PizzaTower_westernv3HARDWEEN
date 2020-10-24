@@ -1,0 +1,24 @@
+
+
+if cigar = true
+{
+pal_swap_set(spr_sausageman_palette, 1, false)
+draw_self()
+shader_reset()
+}
+else
+draw_self()
+
+
+//Flash
+if (flash) { 
+    shader_set(shd_hit);    // Sets the shader to our shader file we created earlier
+    //Draw
+draw_sprite_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, image_angle, image_blend, image_alpha);
+  // Draws the sprite, but now we have a shader set so it draws it as white
+    shader_reset(); // Resets the shader to the default one (does nothing)
+
+} else {
+
+}
+

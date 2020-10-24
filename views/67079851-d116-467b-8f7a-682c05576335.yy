@@ -1,0 +1,30 @@
+{
+    "id": "67079851-d116-467b-8f7a-682c05576335",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "67079851-d116-467b-8f7a-682c05576335",
+    "children": [
+        "0d5196ff-1295-44b5-92b1-654baac4d1ff",
+        "62578769-dfa3-440f-b43f-6a35d96eca82",
+        "e7998fea-d565-4346-b864-bc3bcea9afaf",
+        "cfee0016-c1b1-4fdc-b849-5e43f1df88c1",
+        "213d67e4-104c-47b7-9826-137094b1b0dc",
+        "28c5301f-3d00-4b8e-a6f8-f73599d3e926",
+        "ce3d36ea-3320-4319-a940-ee97cf3aa1df",
+        "cf567d47-38e1-4c83-b5e2-2f96eea6a047",
+        "ded5bddb-c0ea-4fe5-9125-d04143b06e9e",
+        "b7fdb8ca-9fe6-436c-993f-dc1bf4790402",
+        "e2060574-d825-40ea-be8e-dfe603f06062",
+        "b6f43de1-0363-4ac4-89b7-bba3b20e9157",
+        "076baffe-28cd-447e-b836-8f71443676be",
+        "33b73d06-5af9-495b-84e5-d7f0124b9654",
+        "3f3d0448-7367-4e8f-abae-8a7a5a100cf8",
+        "c9cda4d5-c8c9-4d39-9ae9-33b318e1cd6c",
+        "830bd9fa-50e5-40de-a963-90f25e6cc8ff",
+        "91562cea-1a48-4a19-85aa-d904430a566a"
+    ],
+    "filterType": "GMRoom",
+    "folderName": "Entrance",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

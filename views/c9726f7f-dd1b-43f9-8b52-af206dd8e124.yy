@@ -1,0 +1,33 @@
+{
+    "id": "c9726f7f-dd1b-43f9-8b52-af206dd8e124",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "c9726f7f-dd1b-43f9-8b52-af206dd8e124",
+    "children": [
+        "1ddae56e-9d25-4247-a422-62caf2a38d8e",
+        "bd32bc69-7221-47d2-adf8-644e4361fa85",
+        "2db86ccc-4768-4715-9735-7deb6703e6d6",
+        "6b953825-0f6a-43a4-976a-e77d36cf097b",
+        "c61a19f7-1e65-4734-9103-7d5c6c77f718",
+        "eade6f05-df5f-49de-9105-014fb19d68b6",
+        "f11adc3a-9c85-4452-94e3-0330771a2f91",
+        "1b8b08ce-f5cf-4f92-8322-7c5f9d59d0d7",
+        "dc4e0310-0eeb-4e52-81d6-478b6c11145f",
+        "43810bf9-2458-4264-9174-be44331a9cd5",
+        "fb005372-7ba6-49f0-ad67-5bef58e664bd",
+        "4fd0a148-cd65-4484-bbc5-102319bf017d",
+        "6aae7ab6-36e2-44fe-92f4-a48c7d2ad6f0",
+        "e1936ecc-f0da-41ea-85ad-39106bbf4a71",
+        "1eead36a-bad3-4d95-89ae-a69b2a6985a0",
+        "03da2ca2-a571-4fc6-b423-cb7b9447ed23",
+        "9d737602-62e6-4150-acfe-4c80b3d08e20",
+        "2d201b11-8999-4b6d-b8a7-03ba9df31842",
+        "fb0a5766-f7e3-4072-bc76-fff1d6e36064",
+        "da966ad0-0828-402c-837d-b7b285caf9a6",
+        "402d260a-fd10-4b27-939d-5f98d2ba912b"
+    ],
+    "filterType": "GMRoom",
+    "folderName": "UFO",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

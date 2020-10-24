@@ -1,0 +1,33 @@
+{
+    "id": "e21ae043-561a-4e80-a086-2834e89bb6d3",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "e21ae043-561a-4e80-a086-2834e89bb6d3",
+    "children": [
+        "bb812f4a-e71c-45db-86eb-f21e17a9802a",
+        "d12ba442-225e-466e-beaf-20257a84aeb5",
+        "ec88543d-3fa9-46cd-bf56-5da0ab89b68d",
+        "84181a70-0758-449b-b8dc-9ac8930a102d",
+        "e7e8d9d9-38cb-4ea0-a979-5161d436f09b",
+        "3247cc48-cebe-4014-8967-079ca5919b68",
+        "e4743bcf-3af5-48b9-a7f7-613fc76b2f77",
+        "34e3d67f-4271-4575-a7f9-dcc3cb00afe0",
+        "396c999a-2be4-43db-8897-d9d76640d9eb",
+        "0c166f7a-7599-4983-9de7-1cd15189abdf",
+        "cc846f6b-e5ec-4515-9f87-cae00bcce99c",
+        "f38bfadc-c64c-4711-9387-8675e0476272",
+        "7d151517-96fc-4bfc-8803-f187199cd605",
+        "5759a0c7-d49c-48a9-86f4-da03df9acbcc",
+        "f2afcc3a-a2a3-423b-bcfa-4e8b3a9f9da2",
+        "8d4de2c0-10c2-468f-9e2e-e4c15026800f",
+        "f153f1ce-46d8-4eee-8360-701c09e0caee",
+        "931e40b3-9b0e-43e9-a606-742c14ad1db7",
+        "68f779a3-4e29-46e9-99c2-9f8c644665a0",
+        "4836381f-d7da-4f62-b949-1df8ce837620",
+        "4b307238-811a-4d1d-9ee9-1ce3aa9fe4f2"
+    ],
+    "filterType": "GMSound",
+    "folderName": "screams",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

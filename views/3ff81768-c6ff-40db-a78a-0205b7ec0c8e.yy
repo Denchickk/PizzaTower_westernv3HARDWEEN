@@ -1,0 +1,32 @@
+{
+    "id": "3ff81768-c6ff-40db-a78a-0205b7ec0c8e",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "3ff81768-c6ff-40db-a78a-0205b7ec0c8e",
+    "children": [
+        "3f49b762-e590-48cf-82f3-d0969a6df675",
+        "c12cb7db-0307-4f99-a65c-5a5485c76c4c",
+        "04d05298-2dc8-4abd-99d0-960727ebacb6",
+        "862d4d37-0efe-48ca-8a65-6dd0d45f2b41",
+        "407aac6c-2278-47e9-980e-ad48341844d3",
+        "6bce02e6-e86c-42b7-a03f-b4d8b2dbda0c",
+        "5c55a01c-69b1-4e9e-934b-014d2d7f2eee",
+        "f861ecfe-1d02-4b92-b9f5-a5a9caab0c3b",
+        "646d9eb1-027a-4416-9a61-719e1be13d16",
+        "ed1abdc5-0df0-411b-b0d6-60761a7377c7",
+        "5494e9ab-2b15-43ec-99ef-df26534c3a59",
+        "2016022f-c0d0-449d-ba74-c4bb577fad63",
+        "2a6b913c-6c09-4001-976b-3528902f42da",
+        "cd3a5697-863e-4423-b89c-33fc8cffd177",
+        "dcaae5cb-6a88-4807-8986-4692ba9724cc",
+        "b3166b6d-bfae-4a01-8adf-aeb929638814",
+        "13887ecb-532c-451a-96ac-2e2453832497",
+        "ed75358f-a7da-456d-8be1-88a36cc1ab70",
+        "f9ff9974-46bb-412c-8f64-547aa3d58aa6",
+        "c4736a80-e285-47a1-af57-9198e5656864"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "pizzagoblin",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

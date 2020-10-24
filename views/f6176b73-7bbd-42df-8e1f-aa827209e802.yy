@@ -1,0 +1,31 @@
+{
+    "id": "f6176b73-7bbd-42df-8e1f-aa827209e802",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "f6176b73-7bbd-42df-8e1f-aa827209e802",
+    "children": [
+        "6851febb-3fa5-4281-97b0-acd3f7704417",
+        "e0383b83-82b5-4f03-843d-d582c722eb7b",
+        "091e8673-7f53-4c51-bd5c-47f39380e8b4",
+        "beccce0f-38c3-47af-af13-104f8a7c9ef9",
+        "1bb35d30-77c9-4cd1-a4a7-fc8781274a72",
+        "02aec4e8-114e-457d-a2a3-7e1a98ff3168",
+        "18950f84-bb2f-4fc2-ab3f-0446a6fea47e",
+        "38dee9c6-d995-4af1-8790-3e6611e49f55",
+        "ff764501-af5a-4e61-bcd9-a3437e5cc5f9",
+        "1fdfa9de-badc-48c3-af7d-bbde8ee421fa",
+        "3539c344-2e00-48f2-a8e8-1c675b517890",
+        "525cbbf7-e4c5-426a-a403-e35cd9dc7474",
+        "76bf405d-4d02-48e8-965f-dd3f35b1f583",
+        "ec8f59f2-3799-4e4e-a491-089b6a4cd870",
+        "b18ac1fe-cc5c-4c3d-8f30-2a2fa9777cb7",
+        "499d0b69-8f64-498e-809f-cc0ca6a9c5bd",
+        "cd164776-2350-4283-9c49-59f3c2967580",
+        "6eb3e79c-ef42-4ecb-a3ed-9c1e5244f1aa",
+        "21a43e1e-c9e9-4a5d-8429-657e2276f76c"
+    ],
+    "filterType": "GMRoom",
+    "folderName": "Beach",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
